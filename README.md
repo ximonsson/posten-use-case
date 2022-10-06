@@ -67,4 +67,9 @@ Customers are tired of hearing that we will deliver between 08:00 and 16:00, the
 We also need to plan for the coming volume that we are going to distribute preferably by postal code. We need to know daily volumes up to two weeks in advance. Using the recieved data try and make two week forecasts of the daily volume per postal code.
 
 
+## Demo Notebook
+
+A demo notebook has been prepared just to show how parquet files can be loaded and visualize parts of the data. Note that the notebook uses another smaller data set!
+
+
 GLHF!!
