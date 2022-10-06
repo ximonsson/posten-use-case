@@ -53,6 +53,7 @@ In it contains roughly six months of data for four different products.
 ## Exercises
 
 Below we describe in detail the problem statement behind each exercise.
+
 :warning: Do not spend too much time on getting the best results! We are more interested in discussing the thought process behind your solution.
 
 
